@@ -1,7 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import ScheduleView from './components/ScheduleView.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <main id="app-main">
+    <ScheduleView />
+  </main>
 </template>

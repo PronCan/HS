@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "뮤지컬 <해적>",
+    "date": "2026-07-01",
+    "time": "19:30",
+    "location": "예스24스테이지 1관",
+    "type": "musical",
+    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Pirate",
+    "casting": "최호승, 김대현"
+  },
+  {
+    "id": 2,
+    "title": "뮤지컬 <해적>",
+    "date": "2026-07-03",
+    "time": "15:00",
+    "location": "예스24스테이지 1관",
+    "type": "musical",
+    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Pirate",
+    "casting": "최호승, 주민진"
+  },
+  {
+    "id": 3,
+    "title": "연극 <아트>",
+    "date": "2026-07-05",
+    "time": "20:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "poster": "https://via.placeholder.com/150x210/3b82f6/ffffff?text=ART",
+    "casting": "최호승, 엄기준, 박은석"
+  },
+  {
+    "id": 4,
+    "title": "최호승 단독 팬미팅",
+    "date": "2026-07-10",
+    "time": "18:00",
+    "location": "백암아트홀",
+    "type": "event",
+    "poster": "https://via.placeholder.com/150x210/10b981/ffffff?text=Fan+Meeting",
+    "casting": "최호승"
+  },
+  {
+    "id": 5,
+    "title": "뮤지컬 <해적>",
+    "date": "2026-07-15",
+    "time": "19:30",
+    "location": "예스24스테이지 1관",
+    "type": "musical",
+    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Pirate",
+    "casting": "최호승, 김대현"
+  },
+  {
+    "id": 6,
+    "title": "뮤지컬 <해적>",
+    "date": "2026-07-15",
+    "time": "15:00",
+    "location": "예스24스테이지 1관",
+    "type": "musical",
+    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Pirate",
+    "casting": "최호승, 주민진"
+  }
+]
