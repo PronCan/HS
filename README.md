@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# 최호승 배우 일정 맵 (HS Map)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+최호승 배우의 일정을 한눈에 확인할 수 있는 팬 페이지입니다.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 기능
+- 📅 **달력 뷰**: 월별 일정을 캘린더 형태로 확인
+- 🎫 **목록 뷰**: 다가오는 일정을 티켓 형태의 디자인으로 확인
+- 📝 **데이터 관리**: `public/data/schedules.json` 파일을 통해 손쉽게 일정 추가 및 수정 가능
+
+## 개발 환경
+- Vue 3
+- Vite
+- SCSS
