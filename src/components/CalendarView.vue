@@ -109,7 +109,7 @@ const handleDateClick = (day) => {
 <style scoped lang="scss">
 .calendar-view {
   width: 100%;
-  background: var(--bg);
+  background: #999999;
   border-radius: 12px;
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -118,7 +118,7 @@ const handleDateClick = (day) => {
 .weekdays {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  background: var(--code-bg);
+  background: rgba(0, 0, 0, 0.2); /* 배경색(#999999)과 어울리도록 반투명 검정 사용 */
   border-bottom: 1px solid var(--border);
 }
 
@@ -127,12 +127,13 @@ const handleDateClick = (day) => {
   text-align: center;
   font-weight: bold;
   font-size: 13px;
+  color: #ffffff; /* 가독성을 위해 흰색으로 변경 */
   
   &.sunday {
-    color: #ef4444;
+    color: #ffb3b3; /* 일요일은 연한 빨간색 */
   }
   &.saturday {
-    color: #3b82f6;
+    color: #b3d9ff; /* 토요일은 연한 파란색 */
   }
 }
 
@@ -162,7 +163,7 @@ const handleDateClick = (day) => {
   }
   
   &:not(.empty):hover {
-    background-color: var(--code-bg);
+    background-color: rgba(0, 0, 0, 0.1);
   }
   
   &.is-selected {
@@ -185,6 +186,7 @@ const handleDateClick = (day) => {
   justify-content: center;
   border-radius: 50%;
   transition: all 0.2s;
+  color: #ffffff; /* 날짜 숫자 가독성을 위해 흰색으로 변경 */
 }
 
 .schedules-markers {
