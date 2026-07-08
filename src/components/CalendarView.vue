@@ -157,7 +157,7 @@ const handleDateClick = (day) => {
   }
   
   &.empty {
-    background-color: rgba(0, 0, 0, 0.02);
+    background-color: rgba(255, 255, 255, 0.02);
     cursor: default;
   }
   
@@ -200,11 +200,5 @@ const handleDateClick = (day) => {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-}
-
-@media (prefers-color-scheme: dark) {
-  .day-cell.empty {
-    background-color: rgba(255, 255, 255, 0.02);
-  }
 }
 </style>
