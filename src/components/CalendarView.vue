@@ -52,8 +52,9 @@ const calendarDays = computed(() => {
   return days
 })
 
-const getTypeColor = (type) => {
-  switch (type) {
+const getScheduleColor = (schedule) => {
+  if (schedule.color) return schedule.color
+  switch (schedule.type) {
     case 'musical': return '#aa3bff'
     case 'play': return '#3b82f6'
     case 'event': return '#10b981'
@@ -96,7 +97,7 @@ const handleDateClick = (day) => {
               v-for="(schedule, sIdx) in day.schedules" 
               :key="sIdx" 
               class="marker" 
-              :style="{ backgroundColor: getTypeColor(schedule.type) }"
+              :style="{ backgroundColor: getScheduleColor(schedule) }"
             ></div>
           </div>
         </template>

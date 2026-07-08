@@ -52,8 +52,9 @@ const getTypeLabel = (type) => {
   }
 }
 
-const getTypeColor = (type) => {
-  switch (type) {
+const getScheduleColor = (schedule) => {
+  if (schedule.color) return schedule.color
+  switch (schedule.type) {
     case 'musical': return '#aa3bff'
     case 'play': return '#3b82f6'
     case 'event': return '#10b981'
@@ -71,14 +72,14 @@ const getTypeColor = (type) => {
     <div v-else class="schedule-list">
       <div v-for="group in groupedSchedules" :key="group.date" class="date-group">
         <div class="date-badge">
-          <span class="dot"></span>
+          <span class="dot" :style="{ backgroundColor: getScheduleColor(group.items[0]) }"></span>
           {{ group.displayDate }}
         </div>
         
         <div class="items-container">
           <div v-for="item in group.items" :key="item.id" class="ticket-card">
             <!-- 티켓 왼쪽 장식 (색상 띠) -->
-            <div class="ticket-accent" :style="{ backgroundColor: getTypeColor(item.type) }"></div>
+            <div class="ticket-accent" :style="{ backgroundColor: getScheduleColor(item) }"></div>
             
             <div class="ticket-content">
               <div class="ticket-time">
@@ -89,7 +90,7 @@ const getTypeColor = (type) => {
               
               <div class="ticket-info">
                 <div class="header-row">
-                  <span class="type-label" :style="{ color: getTypeColor(item.type) }">[{{ getTypeLabel(item.type) }}]</span>
+                  <span class="type-label" :style="{ color: getScheduleColor(item) }">[{{ getTypeLabel(item.type) }}]</span>
                   <span class="title">{{ item.title }}</span>
                 </div>
                 
@@ -171,7 +172,6 @@ const getTypeColor = (type) => {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    background-color: var(--accent);
     border: 3px solid var(--bg);
     box-shadow: 0 0 0 1px var(--border);
     margin-left: 6px;

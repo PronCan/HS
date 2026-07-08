@@ -80,6 +80,16 @@ const getTypeLabel = (type) => {
   }
 }
 
+const getScheduleColor = (schedule) => {
+  if (schedule.color) return schedule.color
+  switch (schedule.type) {
+    case 'musical': return '#aa3bff'
+    case 'play': return '#3b82f6'
+    case 'event': return '#10b981'
+    default: return '#6b6375'
+  }
+}
+
 const formatDisplayDate = (dateStr) => {
   if (!dateStr) return ''
   const dateObj = new Date(dateStr)
@@ -150,7 +160,7 @@ const formatDisplayDate = (dateStr) => {
                 <img :src="item.poster" :alt="item.title" />
               </div>
               <div class="info">
-                <div class="type-badge" :class="`type-${item.type}`">{{ getTypeLabel(item.type) }}</div>
+                <div class="type-badge" :style="{ color: getScheduleColor(item), border: `1px solid ${getScheduleColor(item)}`, backgroundColor: 'transparent' }">{{ getTypeLabel(item.type) }}</div>
                 <h4 class="title">{{ item.title }}</h4>
                 <div class="meta">
                   <div class="meta-item">
@@ -347,10 +357,6 @@ const formatDisplayDate = (dateStr) => {
     border-radius: 4px;
     font-weight: bold;
     margin-bottom: 6px;
-    
-    &.type-musical { background-color: rgba(170, 59, 255, 0.1); color: #aa3bff; }
-    &.type-play { background-color: rgba(59, 130, 246, 0.1); color: #3b82f6; }
-    &.type-event { background-color: rgba(16, 185, 129, 0.1); color: #10b981; }
   }
   
   .title {
