@@ -6,7 +6,7 @@
     "time": "15:00",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "color": "#ff6b6b",
+    "color": "#600305",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
     "casting": "이채원, 홍기범, 최호승, 한보라, 정상윤, 박세훈, 신준석"
   },
@@ -18,7 +18,8 @@
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 정욱진, 최호승, 한보라, 최호중, 이동희, 신은호"
+    "casting": "이채원, 정욱진, 최호승, 한보라, 최호중, 이동희, 신은호",
+    "color": "#600305"
   },
   {
     "id": 3,
@@ -28,7 +29,8 @@
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "표바하, 정욱진, 최호승, 한보라, 최호중, 이동희, 신은호"
+    "casting": "표바하, 정욱진, 최호승, 한보라, 최호중, 이동희, 신은호",
+    "color": "#600305"
   },
   {
     "id": 4,
@@ -38,7 +40,8 @@
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 홍기범, 최호승, 최수진, 원종환, 박세훈, 신은호"
+    "casting": "이채원, 홍기범, 최호승, 최수진, 원종환, 박세훈, 신은호",
+    "color": "#600305"
   },
   {
     "id": 5,
@@ -48,7 +51,8 @@
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 박규원, 최호승, 한보라, 원종환, 이동희, 신은호"
+    "casting": "이채원, 박규원, 최호승, 한보라, 원종환, 이동희, 신은호",
+    "color": "#600305"
   },
   {
     "id": 6,
@@ -58,7 +62,8 @@
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "조영화, 정욱진, 최호승, 최수진, 정상윤, 박세훈, 신준석"
+    "casting": "조영화, 정욱진, 최호승, 최수진, 정상윤, 박세훈, 신준석",
+    "color": "#600305"
   },
   {
     "id": 7,
@@ -68,7 +73,8 @@
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 정욱진, 최호승, 주다온, 원종환, 박세훈, 신준석"
+    "casting": "이채원, 정욱진, 최호승, 주다온, 원종환, 박세훈, 신준석",
+    "color": "#600305"
   },
   {
     "id": 8,
@@ -78,7 +84,8 @@
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "조영화, 홍기범, 최호승, 한보라, 정상윤, 이동희, 신준석"
+    "casting": "조영화, 홍기범, 최호승, 한보라, 정상윤, 이동희, 신준석",
+    "color": "#600305"
   },
   {
     "id": 9,
@@ -88,7 +95,8 @@
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 홍기범, 최호승, 주다온, 원종환, 이동희, 신준석"
+    "casting": "이채원, 홍기범, 최호승, 주다온, 원종환, 이동희, 신준석",
+    "color": "#600305"
   },
   {
     "id": 10,
@@ -98,6 +106,7 @@
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "표바하, 박규원, 최호승, 주다온, 정상윤, 이동희, 신준석"
+    "casting": "표바하, 박규원, 최호승, 주다온, 정상윤, 이동희, 신준석",
+    "color": "#600305"
   }
 ]
