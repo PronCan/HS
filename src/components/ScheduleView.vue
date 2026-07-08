@@ -16,9 +16,24 @@ const loadSchedules = async () => {
     const data = await fetchSchedules()
     schedules.value = data
     
-    // 오늘 날짜로 초기 선택 (일정이 있는 경우에만 선택하게 할 수도 있음)
-    const todayStr = `${currentDate.value.getFullYear()}-${String(currentDate.value.getMonth() + 1).padStart(2, '0')}-${String(currentDate.value.getDate()).padStart(2, '0')}`
-    selectedDate.value = todayStr
+    // 오늘 날짜 문자열 생성
+    const today = new Date()
+    const todayStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`
+    
+    // 다가오는 가장 빠른 일정 찾기
+    const upcomingSchedules = [...data].sort((a, b) => a.date.localeCompare(b.date))
+    const firstUpcoming = upcomingSchedules.find(s => s.date >= todayStr)
+    
+    if (firstUpcoming) {
+      // 다가오는 일정이 있다면 해당 일정의 달과 날짜로 기본 세팅
+      const upcomingDate = new Date(firstUpcoming.date)
+      currentDate.value = new Date(upcomingDate.getFullYear(), upcomingDate.getMonth(), 1)
+      selectedDate.value = firstUpcoming.date
+    } else {
+      // 다가오는 일정이 없다면 오늘 날짜로 세팅
+      currentDate.value = today
+      selectedDate.value = todayStr
+    }
   } catch (error) {
     console.error('일정을 불러오는데 실패했습니다.', error)
   } finally {
