@@ -1,6 +1,204 @@
 [
   {
+    "id": 1,
+    "title": "연극 <언체인>",
+    "date": "2026-07-08",
+    "time": "16:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 강은빈"
+  },
+  {
+    "id": 2,
+    "title": "연극 <언체인>",
+    "date": "2026-07-08",
+    "time": "20:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 최석진"
+  },
+  {
+    "id": 3,
+    "title": "연극 <언체인>",
+    "date": "2026-07-10",
+    "time": "20:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 김기택"
+  },
+  {
+    "id": 4,
+    "title": "뮤지컬 <웨스턴 스토리>",
+    "date": "2026-07-14",
+    "time": "19:30",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "이채원, 홍기범, 최호승, 주다온, 정상윤, 이동희, 신은호"
+  },
+  {
+    "id": 5,
+    "title": "연극 <언체인>",
+    "date": "2026-07-15",
+    "time": "20:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 박정혁"
+  },
+  {
+    "id": 6,
+    "title": "뮤지컬 <웨스턴 스토리>",
+    "date": "2026-07-16",
+    "time": "19:30",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "표바하, 박규원, 최호승, 최수진, 원종환, 박세훈, 신은호"
+  },
+  {
+    "id": 7,
+    "title": "연극 <언체인>",
+    "date": "2026-07-17",
+    "time": "14:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 최석진"
+  },
+  {
+    "id": 8,
+    "title": "연극 <언체인>",
+    "date": "2026-07-17",
+    "time": "18:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 김기택"
+  },
+  {
+    "id": 9,
+    "title": "연극 <언체인>",
+    "date": "2026-07-18",
+    "time": "19:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 강은빈"
+  },
+  {
+    "id": 10,
+    "title": "뮤지컬 <웨스턴 스토리>",
+    "date": "2026-07-19",
+    "time": "14:00",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "이채원, 홍기범, 최호승, 한보라, 원종환, 이동희, 신준석"
+  },
+  {
     "id": 11,
+    "title": "뮤지컬 <웨스턴 스토리>",
+    "date": "2026-07-19",
+    "time": "18:30",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "조영화, 박규원, 최호승, 최수진, 원종환, 이동희, 신준석"
+  },
+  {
+    "id": 12,
+    "title": "뮤지컬 <웨스턴 스토리> (전관)",
+    "date": "2026-07-21",
+    "time": "19:30",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "이채원, 정욱진, 최호승, 주다온, 원종환, 이동희, 신은호"
+  },
+  {
+    "id": 13,
+    "title": "연극 <언체인> (전관)",
+    "date": "2026-07-22",
+    "time": "16:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 박정혁"
+  },
+  {
+    "id": 14,
+    "title": "뮤지컬 <웨스턴 스토리>",
+    "date": "2026-07-24",
+    "time": "19:30",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "표바하, 박규원, 최호승, 주다온, 원종환, 박세훈, 신은호"
+  },
+  {
+    "id": 15,
+    "title": "뮤지컬 <웨스턴 스토리>",
+    "date": "2026-07-25",
+    "time": "18:30",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "표바하, 박규원, 최호승, 주다온, 원종환, 이동희, 신준석"
+  },
+  {
+    "id": 16,
+    "title": "연극 <언체인>",
+    "date": "2026-07-26",
+    "time": "14:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 강은빈"
+  },
+  {
+    "id": 17,
+    "title": "연극 <언체인>",
+    "date": "2026-07-26",
+    "time": "18:00",
+    "location": "링크아트센터 벅스홀",
+    "type": "play",
+    "color": "#349be1",
+    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "casting": "최호승, 김기택"
+  },
+  {
+    "id": 18,
+    "title": "뮤지컬 <웨스턴 스토리>",
+    "date": "2026-07-28",
+    "time": "19:30",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "표바하, 정욱진, 최호승, 주다온, 정상윤, 이동희, 신준석"
+  },
+  {
+    "id": 19,
     "title": "연극 <언체인>",
     "date": "2026-07-29",
     "time": "16:00",
@@ -11,7 +209,7 @@
     "casting": "최호승, 박정혁"
   },
   {
-    "id": 12,
+    "id": 20,
     "title": "연극 <언체인>",
     "date": "2026-07-29",
     "time": "20:00",
@@ -22,7 +220,29 @@
     "casting": "최호승, 강은빈"
   },
   {
-    "id": 13,
+    "id": 21,
+    "title": "뮤지컬 <웨스턴 스토리>",
+    "date": "2026-07-31",
+    "time": "19:30",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "이채원, 홍기범, 최호승, 한보라, 정상윤, 박세훈, 신준석"
+  },
+  {
+    "id": 22,
+    "title": "뮤지컬 <웨스턴 스토리>",
+    "date": "2026-08-01",
+    "time": "14:00",
+    "location": "NOL 유니플렉스 1관",
+    "type": "musical",
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "표바하, 박규원, 최호승, 주다온, 최호중, 이동희, 신은호"
+  },
+  {
+    "id": 23,
     "title": "연극 <언체인>",
     "date": "2026-08-02",
     "time": "14:00",
@@ -33,7 +253,7 @@
     "casting": "최호승, 김기택"
   },
   {
-    "id": 14,
+    "id": 24,
     "title": "연극 <언체인>",
     "date": "2026-08-04",
     "time": "20:00",
@@ -44,18 +264,18 @@
     "casting": "최호승, 강은빈"
   },
   {
-    "id": 1,
+    "id": 25,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-05",
     "time": "15:00",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
     "color": "#600305",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
     "casting": "이채원, 홍기범, 최호승, 한보라, 정상윤, 박세훈, 신준석"
   },
   {
-    "id": 15,
+    "id": 26,
     "title": "연극 <언체인>",
     "date": "2026-08-07",
     "time": "20:00",
@@ -66,29 +286,29 @@
     "casting": "최호승, 김기택"
   },
   {
-    "id": 2,
+    "id": 27,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-08",
     "time": "14:00",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 정욱진, 최호승, 한보라, 최호중, 이동희, 신은호",
-    "color": "#600305"
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "이채원, 정욱진, 최호승, 한보라, 최호중, 이동희, 신은호"
   },
   {
-    "id": 3,
+    "id": 28,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-08",
     "time": "18:30",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "표바하, 정욱진, 최호승, 한보라, 최호중, 이동희, 신은호",
-    "color": "#600305"
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "표바하, 정욱진, 최호승, 한보라, 최호중, 이동희, 신은호"
   },
   {
-    "id": 16,
+    "id": 29,
     "title": "연극 <언체인>",
     "date": "2026-08-09",
     "time": "14:00",
@@ -99,18 +319,18 @@
     "casting": "최호승, 김기택"
   },
   {
-    "id": 4,
+    "id": 30,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-11",
     "time": "19:30",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 홍기범, 최호승, 최수진, 원종환, 박세훈, 신은호",
-    "color": "#600305"
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "이채원, 홍기범, 최호승, 최수진, 원종환, 박세훈, 신은호"
   },
   {
-    "id": 17,
+    "id": 31,
     "title": "연극 <언체인>",
     "date": "2026-08-12",
     "time": "20:00",
@@ -121,7 +341,7 @@
     "casting": "최호승, 강은빈"
   },
   {
-    "id": 18,
+    "id": 32,
     "title": "연극 <언체인>",
     "date": "2026-08-13",
     "time": "20:00",
@@ -132,29 +352,29 @@
     "casting": "최호승, 박정혁"
   },
   {
-    "id": 5,
+    "id": 33,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-14",
     "time": "19:30",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 박규원, 최호승, 한보라, 원종환, 이동희, 신은호",
-    "color": "#600305"
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "이채원, 박규원, 최호승, 한보라, 원종환, 이동희, 신은호"
   },
   {
-    "id": 6,
+    "id": 34,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-15",
     "time": "14:00",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "조영화, 정욱진, 최호승, 최수진, 정상윤, 박세훈, 신준석",
-    "color": "#600305"
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "조영화, 정욱진, 최호승, 최수진, 정상윤, 박세훈, 신준석"
   },
   {
-    "id": 19,
+    "id": 35,
     "title": "연극 <언체인>",
     "date": "2026-08-16",
     "time": "14:00",
@@ -165,7 +385,7 @@
     "casting": "최호승, 강은빈"
   },
   {
-    "id": 20,
+    "id": 36,
     "title": "연극 <언체인>",
     "date": "2026-08-16",
     "time": "18:00",
@@ -176,47 +396,47 @@
     "casting": "최호승, 김기택"
   },
   {
-    "id": 7,
+    "id": 37,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-17",
     "time": "14:00",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 정욱진, 최호승, 주다온, 원종환, 박세훈, 신준석",
-    "color": "#600305"
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "이채원, 정욱진, 최호승, 주다온, 원종환, 박세훈, 신준석"
   },
   {
-    "id": 8,
+    "id": 38,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-20",
     "time": "19:30",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "조영화, 홍기범, 최호승, 한보라, 정상윤, 이동희, 신준석",
-    "color": "#600305"
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "조영화, 홍기범, 최호승, 한보라, 정상윤, 이동희, 신준석"
   },
   {
-    "id": 9,
+    "id": 39,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-22",
     "time": "14:00",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "이채원, 홍기범, 최호승, 주다온, 원종환, 이동희, 신준석",
-    "color": "#600305"
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "이채원, 홍기범, 최호승, 주다온, 원종환, 이동희, 신준석"
   },
   {
-    "id": 10,
+    "id": 40,
     "title": "뮤지컬 <웨스턴 스토리>",
     "date": "2026-08-22",
     "time": "18:30",
     "location": "NOL 유니플렉스 1관",
     "type": "musical",
-    "poster": "https://via.placeholder.com/150x210/aa3bff/ffffff?text=Western+Story",
-    "casting": "표바하, 박규원, 최호승, 주다온, 정상윤, 이동희, 신준석",
-    "color": "#600305"
+    "color": "#600305",
+    "poster": "https://via.placeholder.com/150x210/600305/ffffff?text=Western+Story",
+    "casting": "표바하, 박규원, 최호승, 주다온, 정상윤, 이동희, 신준석"
   }
 ]
