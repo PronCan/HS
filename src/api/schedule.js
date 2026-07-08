@@ -17,8 +17,9 @@ function filterByMonth(schedules, yearMonth) {
 export const fetchSchedules = async (yearMonth) => {
   try {
     // public 폴더에 있는 JSON 파일을 가져옵니다.
-    // 배포 환경에서도 이 경로를 통해 정적 파일로 접근 가능합니다.
-    const response = await fetch('/data/schedules.json');
+    // Vite의 BASE_URL을 사용하여 배포 환경(GitHub Pages 등)에서도 올바른 경로를 찾도록 합니다.
+    const baseUrl = import.meta.env.BASE_URL;
+    const response = await fetch(`${baseUrl}data/schedules.json`);
     
     if (!response.ok) {
       throw new Error('데이터를 불러오는데 실패했습니다.');
