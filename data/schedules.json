@@ -1,68 +1,68 @@
 [
   {
     "id": 1,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-06-04",
     "time": "20:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 정지우, 김서환, 이예준"
   },
   {
     "id": 2,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-06-07",
     "time": "18:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 정재환, 김서환, 이예준"
   },
   {
     "id": 3,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-06-10",
     "time": "20:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 김기택, 송정훈, 안창용"
   },
   {
     "id": 4,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-06-13",
     "time": "15:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 정지우, 홍준기, 이주훈"
   },
   {
     "id": 5,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-06-13",
     "time": "19:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 정재환, 최찬웅, 홍순기"
   },
   {
     "id": 6,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-06-16",
     "time": "20:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 정재환, 송정훈, 홍순기"
   },
   {
@@ -100,24 +100,24 @@
   },
   {
     "id": 10,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-06-21",
     "time": "14:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 박준형, 홍준기, 안창용"
   },
   {
     "id": 11,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-06-24",
     "time": "16:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 정재환, 홍준기, 이주훈"
   },
   {
@@ -133,13 +133,13 @@
   },
   {
     "id": 13,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-06-27",
     "time": "15:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 김기택, 최찬웅, 안창용"
   },
   {
@@ -188,13 +188,13 @@
   },
   {
     "id": 18,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-07-03",
     "time": "20:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 박준형, 최찬웅, 홍순기"
   },
   {
@@ -221,13 +221,13 @@
   },
   {
     "id": 21,
-    "title": "연극 <언체인>",
+    "title": "연극 <헤르츠클란>",
     "date": "2026-07-07",
     "time": "20:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 정재환, 김서환, 안창용"
   },
   {
@@ -276,13 +276,13 @@
   },
   {
     "id": 26,
-    "title": "연극 <언체인> (막공)",
+    "title": "연극 <헤르츠클란> (막공)",
     "date": "2026-07-11",
     "time": "15:00",
     "location": "링크아트센터 벅스홀",
     "type": "play",
-    "color": "#349be1",
-    "poster": "https://via.placeholder.com/150x210/349be1/ffffff?text=Unchain",
+    "color": "#ff9f43",
+    "poster": "https://via.placeholder.com/150x210/ff9f43/ffffff?text=Hertzklan",
     "casting": "최호승, 정재환, 홍준기, 이주훈"
   },
   {
